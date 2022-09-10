@@ -176,6 +176,10 @@
     {
         min-width: auto;
     }
+    .sectionDescription
+    {
+        font-size: 14px;
+    }
     .footerAnchor
     {
         font-size: 19px;
